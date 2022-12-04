@@ -1,6 +1,6 @@
 [
     {
-        "category":"tanks",
+        "category":"Tanks",
         "items":[
             {
                 "key":"84ac13a9696967dc4dce46369e37e3d7",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "category":"peopleandcharacters",
+        "category":"People & Characters",
         "items":[
             {
                 "key":"28c29bcfc8530b2bdb2140afb0922965",
@@ -450,7 +450,7 @@
         ]
     },
     {
-        "category":"weapons",
+        "category":"Weapons",
         "items":[
             {
                 "key":"dc78c8ca3cc51debbf6ed878e4b48832",
@@ -725,7 +725,7 @@
         ]
     },
     {
-        "category":"airplanes",
+        "category":"Airplanes",
         "items":[
             {
                 "key":"6c773d2ecb36753b2beb75922c4c6bf7",
@@ -780,7 +780,7 @@
         ]
     },
     {
-        "category":"animals",
+        "category":"Animals",
         "items":[
             {
                 "key":"34bd64c1a58482ade212de6d65bee596",
@@ -945,7 +945,7 @@
         ]
     },
     {
-        "category":"buildings",
+        "category":"Buildings",
         "items":[
             {
                 "key":"2767876db1424a768e0244019917716c",
@@ -1145,7 +1145,7 @@
         ]
     },
     {
-        "category":"furniture",
+        "category":"Furniture",
         "items":[
             {
                 "key":"8e6172aba40cecc00d017321ae2aa6d8",
@@ -1280,7 +1280,7 @@
         ]
     },
     {
-        "category":"sport",
+        "category":"Sport",
         "items":[
             {
                 "key":"b3d4b75963a0e456e840e544fb8646ea",
