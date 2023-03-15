@@ -1,0 +1,10 @@
+[
+  {
+    "name": "拼音",
+    "version_name": "2022111622",
+    "version_code": 2022111622,
+    "package_name": "com.kenkieo.spell",
+    "icon": "https://raw.githubusercontent.com/guujoy/google_android/main/spell/app_icon/com.kenkieo.spell.png",
+    "desc": "给大家用来学习中文发音的APP"
+  }
+]
